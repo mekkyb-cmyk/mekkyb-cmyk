@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Hivexa.
+- 🔭 I’m currently working on Hivexa (tester, not coder)
 - 🌱 I’m currently learning how to code in HTML/CSS.
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with nothing at the moment.
